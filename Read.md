@@ -88,4 +88,4 @@ If you find a bug or have a feature request:
 
 - Создайте issue в репозитории: https://github.com/Esko1m/zoom-installer/issues
 
-Contributions, pull requests, and feedback are welcome! 🚀
+Contributions, pull requests, and feedback are welcome! 
