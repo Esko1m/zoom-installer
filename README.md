@@ -1,4 +1,4 @@
-# Antigravity Installer (Arch / Garuda / Manjaro)
+# Zoom Installer (Arch / Garuda / Manjaro)
 
 Unofficial installer for **Zoom Meeting** on Arch-based Linux distributions.
 
