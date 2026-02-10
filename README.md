@@ -14,7 +14,7 @@ Unofficial installer for **Zoom Meeting** on Arch-based Linux distributions.
 - ✅ Creates a convenient **`zoom`** launcher in `*/usr/local/bin*`
 - ✅ Installs **.desktop launcher** and application icon
 - ✅ Applies **Chrome-style sandbox** fix for better compatibility
-- ✅ **Idempotent:** re-running the installer updates Antigravity to the latest version
+- ✅ **Idempotent:** re-running the installer updates Zoom Meeting to the latest version
 
 ---
 
