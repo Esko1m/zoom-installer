@@ -47,14 +47,14 @@ chmod +x zoom-installer.sh
 
 The script will:
 
-- Fetch the latest Antigravity package from Google APT
+- Fetch the latest Zoom Meeting package from Zoom
 - Verify SHA256 checksum
 - Install files into `/opt/zoom`
 - Create a symlink `/usr/local/bin/zoom`
 - Install desktop entries and icons
 - Apply sandbox fixes if needed
 
-### 4. Run Antigravity
+### 4. Run Zoom Meeting
 
 ```bash
 zoom
